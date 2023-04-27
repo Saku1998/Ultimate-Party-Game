@@ -1,0 +1,18 @@
+.categories{
+    width: 95%;
+    height: 15%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 140px;
+    height: 80px;
+    font-size: 22px;
+    border-radius: 8px;
+    box-shadow: 3px 3px 3px black;
+    background-color: lightblue;
+}
